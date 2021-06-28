@@ -1,0 +1,20 @@
+{
+  "name": "servidor_node_desafio5",
+  "version": "1.0.0",
+  "description": "desafio 5 servidor nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vogeln7/servidor_node_desafio5.git"
+  },
+  "author": "vn7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vogeln7/servidor_node_desafio5/issues"
+  },
+  "homepage": "https://github.com/Vogeln7/servidor_node_desafio5#readme"
+}
