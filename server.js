@@ -9,7 +9,7 @@ let server = http.createServer((req,res)=>{
         precio: numAleatorio(),
         thumbnail:`Foto: ${numAleatorio()}`
     }
-    console.log("Despues de aca responde");
+    
     res.end(JSON.stringify(producto));
 });
 
